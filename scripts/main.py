@@ -1,5 +1,5 @@
-from prettytable import PrettyTable
-import psycopg2
+from prettytable import PrettyTable # type: ignore
+import psycopg2 # type: ignore
 from config import DATABASE
 
 
